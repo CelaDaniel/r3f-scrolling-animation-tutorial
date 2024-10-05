@@ -39,11 +39,6 @@ export const Overlay = () => {
     <Scroll html>
       <div class="w-screen">
         <Section opacity={opacityFirstSection}>
-          <h1 className="font-semibold font-serif text-2xl">
-            Hello, I'm Daniel
-          </h1>
-          <p className="text-gray-500">Welcome to my beautiful portfolio</p>
-          <p className="animate-bounce  mt-6">↓</p>
         </Section>
         <Section right opacity={opacitySecondSection}>
         </Section>
